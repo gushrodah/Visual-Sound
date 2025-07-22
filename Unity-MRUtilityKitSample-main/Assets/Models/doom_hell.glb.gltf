@@ -1,0 +1,164 @@
+{
+  "asset": {
+    "generator": "UnityGltf 2.17.3, Unity 2022.3.21f1, Built-in RP",
+    "version": "2.0"
+  },
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ],
+  "extensionsRequired": [
+    "KHR_materials_unlit"
+  ],
+  "images": [
+    {
+      "uri": "Texture_0%20.jpg",
+      "name": ""
+    },
+    {
+      "uri": "Texture_1%20.jpg",
+      "name": ""
+    },
+    {
+      "uri": "Texture_2%20.jpg",
+      "name": ""
+    },
+    {
+      "uri": "Texture_3%20.jpg",
+      "name": ""
+    },
+    {
+      "uri": "Texture_4%20.jpg",
+      "name": ""
+    },
+    {
+      "uri": "Texture_5%20.png",
+      "name": ""
+    },
+    {
+      "uri": "Texture_6%20.jpg",
+      "name": ""
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "name": "TechExport",
+      "extensions": {
+        "KHR_materials_unlit": {}
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        }
+      },
+      "name": "Hellknight",
+      "extensions": {
+        "KHR_materials_unlit": {}
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        }
+      },
+      "name": "CaveExport",
+      "extensions": {
+        "KHR_materials_unlit": {}
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        }
+      },
+      "name": "Slayer",
+      "extensions": {
+        "KHR_materials_unlit": {}
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 4
+        }
+      },
+      "name": "LavaExport",
+      "extensions": {
+        "KHR_materials_unlit": {}
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 5
+        }
+      },
+      "alphaMode": "BLEND",
+      "name": "MuzzelFlash",
+      "extensions": {
+        "KHR_materials_unlit": {}
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 6
+        }
+      },
+      "name": "Ball",
+      "extensions": {
+        "KHR_materials_unlit": {}
+      }
+    }
+  ],
+  "samplers": [
+    {
+      "minFilter": 9987
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0,
+      "name": "Texture_0 "
+    },
+    {
+      "sampler": 0,
+      "source": 1,
+      "name": "Texture_1 "
+    },
+    {
+      "sampler": 0,
+      "source": 2,
+      "name": "Texture_2 "
+    },
+    {
+      "sampler": 0,
+      "source": 3,
+      "name": "Texture_3 "
+    },
+    {
+      "sampler": 0,
+      "source": 4,
+      "name": "Texture_4 "
+    },
+    {
+      "sampler": 0,
+      "source": 5,
+      "name": "Texture_5 "
+    },
+    {
+      "sampler": 0,
+      "source": 6,
+      "name": "Texture_6 "
+    }
+  ]
+}
